@@ -23,7 +23,7 @@ import java.util.List;
 
 public class hexView extends ImageView {
 
-    private static final String TAG ="BOOMBABY" ;
+    private static final String TAG ="HV" ;
     protected Bitmap art;
     int width;
     int height;
